@@ -6,7 +6,7 @@ This project is a Bash command-line tool that discovers live devices on a local 
 
 The demonstrated vulnerability is HTTP Directory Listing, where files may be visible through a web server if directory browsing is enabled.
 
-This tool is for educational and authorized lab use only.
+This tool is for educational and authorized lab useage only.
 
 ---
 
